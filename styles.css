@@ -47,6 +47,7 @@ h3 {
 #top p {
     color: var(--neutral-color2);
     line-height: 30px;
+    margin-right: 10%;
 }
 #left {
     background-color: var(--primary-color1);
